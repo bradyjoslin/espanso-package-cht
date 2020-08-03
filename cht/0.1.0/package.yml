@@ -1,0 +1,23 @@
+# cht package
+
+name: cht
+parent: default
+
+matches:
+  - trigger: ":cht"
+    replace: "{{output}}"
+    passive_only: true
+    vars:
+      - name: output
+        type: shell
+        params:
+          cmd: 'curl "https://cht.sh/$0?QT&style=bw"'
+
+  - trigger: ":vcht"
+    replace: "{{output}}"
+    passive_only: true
+    vars:
+      - name: output
+        type: shell
+        params:
+          cmd: 'curl "https://cht.sh/$0?qT&style=bw"'
