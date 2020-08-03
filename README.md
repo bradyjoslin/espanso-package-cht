@@ -1,6 +1,6 @@
 # espanso-package-cht
 
-An espanso package for getting code snippets from [Igor Chubin's](https://github.com/chubin) console-oriented cheat sheet service [cht.sh](https://wttr.in).
+An espanso package for getting code snippets from [Igor Chubin's](https://github.com/chubin) console-oriented cheat sheet service [cht.sh](https://cht.sh).
 
 For more information about espanso packages, read the [documentation](https://espanso.org/docs/).
 
