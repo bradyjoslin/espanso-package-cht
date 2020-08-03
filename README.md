@@ -8,7 +8,7 @@ For more information about espanso packages, read the [documentation](https://es
 
 ## Usage
 
-Available replacement examples:
+Available replacements:
 
 | replacement      | description                 |
 | ---------------- | --------------------------- |
