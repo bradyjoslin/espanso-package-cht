@@ -34,5 +34,5 @@ Requires `curl`.
 
 ## Package Details
 
-Respository: [https://github.com/bradyjoslin/espanso-package-cht/](https://github.com/bradyjoslin/espanso-package-cht/)
+Repository: [https://github.com/bradyjoslin/espanso-package-cht/](https://github.com/bradyjoslin/espanso-package-cht/)
 
