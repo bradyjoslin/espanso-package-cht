@@ -1,6 +1,8 @@
 # espanso-package-cht
 
-An espanso package for getting code snippets from [Igor Chubin's](https://github.com/chubin) console-oriented cheat sheet service [cht.sh](https://cht.sh).
+An espanso package for getting code snippets from [Igor Chubin's](https://github.com/chubin) console-oriented cheat sheet service [cht.sh](https://cht.sh). [Espanso](https://espanso.org/) is a free cross-platform text expander written in Rust.
+
+![usage](./images/chtjs.gif)
 
 For more information about espanso packages, read the [documentation](https://espanso.org/docs/).
 
