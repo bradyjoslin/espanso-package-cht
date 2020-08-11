@@ -18,8 +18,17 @@ Available replacements:
 Uses [passive replacement](https://espanso.org/docs/passive-mode/), so it is triggered by highlighting the text and double tapping your configured passive key.
 
 ## Installation
+From [espanso hub](https://hub.espanso.org/packages/cht/):
 
+```
+espanso install cht
+```
+
+From source repo:
+
+```
 `espanso install cht https://github.com/bradyjoslin/espanso-package-cht --external`
+```
 
 ## Dependencies
 
