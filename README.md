@@ -19,7 +19,17 @@ Uses [passive replacement](https://espanso.org/docs/passive-mode/), so it is tri
 
 ## Installation
 
-`espanso install cht https://github.com/bradyjoslin/espanso-package-cht --external`
+From [espanso hub](https://hub.espanso.org/packages/cht/):
+
+```
+espanso install cht
+```
+
+From source repo:
+
+```
+espanso install cht https://github.com/bradyjoslin/espanso-package-cht --external
+```
 
 ## Dependencies
 
