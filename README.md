@@ -27,7 +27,7 @@ espanso install cht
 From source repo:
 
 ```
-`espanso install cht https://github.com/bradyjoslin/espanso-package-cht --external`
+espanso install cht https://github.com/bradyjoslin/espanso-package-cht --external
 ```
 
 ## Dependencies
